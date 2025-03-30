@@ -338,6 +338,9 @@ const App = () => {
         >
           Start Game
         </button>
+        <a href="/About me/about.html" className="about-me-button">
+          About Me
+        </a>
       </div>
     );
   }
